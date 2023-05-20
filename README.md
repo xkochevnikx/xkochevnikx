@@ -1,6 +1,5 @@
 ## Всем мир! 👋
 ### Меня зовут Святослав и я занимаюсь веб-разработкой 👨‍💻
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +15,6 @@
 </div>
 
 ---
-
 ### Мой стек 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,8 +33,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xkochevnikx&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&card_width=200)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkochevnikx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
