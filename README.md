@@ -11,7 +11,8 @@
   <a href="https://github.com/xkochevnikx">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
- 
+  </br>
+    <img src="https://www.codewars.com/users/xkochevnikx/badges/micro"/>
 </div>
 
 ### Мой стек 
