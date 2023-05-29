@@ -44,7 +44,7 @@
 ---
 [Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) - диплом проект в первой школе программирования 
 ---
-[Блог стран](https://github.com/xkochevnikx/countries_api) - пет, с использование styled components
+[Блог стран](https://github.com/xkochevnikx/countries_api) - pet, с использованием styled components
 ---
 [TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest) 
 ---
