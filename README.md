@@ -37,15 +37,23 @@
 
 ---
 
-### Что умею
+### Что умею : 
 [Блог статей](https://github.com/xkochevnikx/production_project)
+---
 [Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react)
+---
 [Блог стран](https://github.com/xkochevnikx/countries_api)
+---
 [Блог постов](https://github.com/xkochevnikx/homework_react)
+---
 [TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest)
+---
 [Бургер + модалка](https://github.com/xkochevnikx/component_burger_menu-modal_window)
+---
 [Прогноз погоды](https://github.com/xkochevnikx/weatherForecast)
+---
 [Блог статей](https://github.com/xkochevnikx/production_project)
+---
 
 
 
