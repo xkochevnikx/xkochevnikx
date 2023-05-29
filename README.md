@@ -38,7 +38,7 @@
 ---
 
 ### Что умею : 
-[Блог статей](https://github.com/xkochevnikx/production_project)
+[Блог статей](https://github.com/xkochevnikx/production_project) еще в разработке
 ---
 [Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react)
 ---
