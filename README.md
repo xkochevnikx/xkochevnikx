@@ -38,10 +38,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkochevnikx&theme=algolia" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xkochevnikx&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
