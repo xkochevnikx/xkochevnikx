@@ -65,7 +65,7 @@
 ---
 [Прогноз погоды](https://github.com/xkochevnikx/weatherForecast) 
 ---
-[Доска активностей](https://github.com/xkochevnikx/active_states) - доску учёта времени на native js
+[Доска активностей](https://github.com/xkochevnikx/active_states) - доска учёта времени на native js
 ---
 
 
