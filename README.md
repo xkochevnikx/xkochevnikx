@@ -59,13 +59,13 @@
 ---
 [Блог стран](https://github.com/xkochevnikx/countries_api) - pet, с использованием styled components
 ---
-[TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest) 
+[TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest) - todo на rtc
 ---
 [Бургер + модалка](https://github.com/xkochevnikx/component_burger_menu-modal_window) - пример компонентов
 ---
 [Прогноз погоды](https://github.com/xkochevnikx/weatherForecast) 
 ---
-[Блог статей](https://github.com/xkochevnikx/production_project) 
+[Доска активностей](https://github.com/xkochevnikx/active_states) - доску учёта времени на native js
 ---
 
 
