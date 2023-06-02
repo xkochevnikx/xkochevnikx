@@ -63,7 +63,7 @@
 ---
 [Бургер + модалка](https://github.com/xkochevnikx/component_burger_menu-modal_window) - пример компонентов
 ---
-[Прогноз погоды](https://github.com/xkochevnikx/weatherForecast) 
+[Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast)  🌦
 ---
 [Доска активностей](https://github.com/xkochevnikx/active_states) - доска учёта времени на native js
 ---
