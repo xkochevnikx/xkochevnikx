@@ -51,6 +51,7 @@
 ---
 
 ### Что умею  : 
+
 [Блог статей](https://github.com/xkochevnikx/production_project)
 ---
 [Блог постов](https://github.com/xkochevnikx/homework_react) 
@@ -68,6 +69,7 @@
 [Бургер меню + модальное окно](https://github.com/xkochevnikx/component_burger_menu-modal_window) 
 ---
 [Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
+---
 
 
 
