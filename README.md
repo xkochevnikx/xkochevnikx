@@ -51,22 +51,25 @@
 ---
 
 ### Что умею  : 
-[Блог статей](https://github.com/xkochevnikx/production_project) - еще в разработке 
+[Блог статей](https://github.com/xkochevnikx/production_project)
 ---
 [Блог постов](https://github.com/xkochevnikx/homework_react) 
 ---
-[Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) - диплом проект в первой школе программирования 🍞
+[Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) 
 ---
-[Блог стран](https://github.com/xkochevnikx/countries_api) - pet, с использованием styled components
+[Блог стран](https://github.com/xkochevnikx/countries_api) 
 ---
-[TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest) - todo на rtc
+[TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest)
 ---
-[Бургер + модалка](https://github.com/xkochevnikx/component_burger_menu-modal_window) - пример компонентов 🍔
+[Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast) 
 ---
-[Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast)  🌦
+[Доска активностей](https://github.com/xkochevnikx/active_states)
 ---
-[Доска активностей](https://github.com/xkochevnikx/active_states) - доска учёта времени на native js 🤸‍♂️
+[Бургер меню + модальное окно](https://github.com/xkochevnikx/component_burger_menu-modal_window) 
 ---
+[Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
+
+
 
 
 
