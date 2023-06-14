@@ -60,7 +60,7 @@
 ---
 [Блог стран](https://github.com/xkochevnikx/countries_api) 
 ---
-[TODO на redux toolkit](https://github.com/xkochevnikx/severstalTodoTest)
+[TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
 ---
 [Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast) 
 ---
