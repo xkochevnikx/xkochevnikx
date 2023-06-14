@@ -70,7 +70,8 @@
 ---
 [Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
 ---
-
+[Генератор цветов](https://github.com/xkochevnikx/palette_generator)
+---
 
 
 
