@@ -55,25 +55,25 @@
 
 👨‍💻 Что умею  : 
 
-[Блог статей](https://github.com/xkochevnikx/production_project)
+### [Блог статей](https://github.com/xkochevnikx/production_project)
 ---
-[Блог постов](https://github.com/xkochevnikx/homework_react) 
+### [Блог постов](https://github.com/xkochevnikx/homework_react) 
 ---
-[Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) 
+### [Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) 
 ---
-[Блог стран](https://github.com/xkochevnikx/countries_api) 
+### [Блог стран](https://github.com/xkochevnikx/countries_api) 
 ---
-[TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
+### [TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
 ---
-[Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast) 
+### [Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast) 
 ---
-[Доска активностей](https://github.com/xkochevnikx/active_states)
+### [Доска активностей](https://github.com/xkochevnikx/active_states)
 ---
-[Бургер меню + модальное окно](https://github.com/xkochevnikx/component_burger_menu-modal_window) 
+### [Бургер меню + модальное окно](https://github.com/xkochevnikx/component_burger_menu-modal_window) 
 ---
-[Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
+### [Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
 ---
-[Генератор цветов](https://github.com/xkochevnikx/palette_generator)
+### [Генератор цветов](https://github.com/xkochevnikx/palette_generator)
 ---
 
 
