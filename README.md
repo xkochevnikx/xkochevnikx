@@ -2,7 +2,7 @@
 Меня зовут Святослав и я Frontend-разработчик с более чем годовым опытом практики в области веб-разработки. В данный момент активно ищу возможность присоединиться к команде, где смогу не только развиваться, но и внести значительный вклад в создание кода высокого качества.
 
 ---
-📫 Контакты:
+📫 Контакты :
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,8 +12,9 @@
   </a>
 </div>
 
----
-💻 Технологии:
+----
+💻 Технологии : <br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,14 +30,15 @@
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 
-🛠 Инструменты:
+---
+🛠 Инструменты :
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
-⚙️ Аналитика: 
+⚙️ Аналитика : 
 
 <table>
   <tr>
@@ -51,7 +53,7 @@
 
 ---
 
-Что умею  : 
+👨‍💻 Что умею  : 
 
 [Блог статей](https://github.com/xkochevnikx/production_project)
 ---
