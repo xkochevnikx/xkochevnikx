@@ -55,7 +55,8 @@
 
 👨‍💻 Что умею  : 
 
-### [Eslint плагин](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt)
+### [Eslint плагин](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt) 
+Кастомный плагин собран на основе шаблона сгенерированного с помощью  [generator-eslint](https://www.npmjs.com/package/generator-eslint)
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
