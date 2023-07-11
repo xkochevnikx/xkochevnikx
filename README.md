@@ -61,7 +61,7 @@
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
-
+Большой проект с подробной документацией.
 
 ---
 ### [Блог постов](https://github.com/xkochevnikx/homework_react) 
