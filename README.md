@@ -57,7 +57,7 @@
 
 ### [Eslint plugin](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt) 
 Кастомный плагин собран на основе шаблона сгенерированного с помощью  [generator-eslint](https://www.npmjs.com/package/generator-eslint).
-Включает в себя одно правило проверяющее префиксы Interfaces in TypeScript. Это один из 4 кастомных плагинов написанных мной для проекта [Блог статей](https://github.com/xkochevnikx/production_project). Опубликован в [npm](https://www.npmjs.com/package/eslint-plugin-interface-prefix-control-svt), доступен для скачивания и установки в Ваш проект.
+Включает в себя одно правило проверяющее префиксы Interfaces in TypeScript. Это один из 3 кастомных плагинов написанных мной для проекта [Блог статей](https://github.com/xkochevnikx/production_project). Опубликован в [npm](https://www.npmjs.com/package/eslint-plugin-interface-prefix-control-svt), доступен для скачивания и установки в Ваш проект.
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
