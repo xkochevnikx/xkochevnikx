@@ -55,6 +55,9 @@
 
 👨‍💻 Что умею  : 
 
+### [Eslint плагин](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt)
+
+
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
 
 ---
