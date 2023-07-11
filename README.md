@@ -56,7 +56,8 @@
 👨‍💻 Что умею  : 
 
 ### [Eslint плагин](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt) 
-Кастомный плагин собран на основе шаблона сгенерированного с помощью  [generator-eslint](https://www.npmjs.com/package/generator-eslint)
+Кастомный плагин собран на основе шаблона сгенерированного с помощью  [generator-eslint](https://www.npmjs.com/package/generator-eslint).
+Включает в себя одно правило проверяющее префиксы Interfaces in TypeScript. Это один из 4 кастомных плагинов написанных мной для проекта [Блог статей](https://github.com/xkochevnikx/production_project).
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
