@@ -66,7 +66,8 @@
 ---
 ### [Razek telecom](https://github.com/ala-archa/ratzek-services-frontend)
 Сервис по предоставлению доступа к интернету на стоянке Рацека. <br/>
-Проект является фронтендом к captive-порталу, предоставляющим бесплатный доступ к интернету в высокогорной зоне в Хижине Рацека — базовом лагере альпинистов в нац.парке Ала-Арча.
+Проект является фронтендом к captive-порталу, предоставляющим бесплатный доступ к интернету в высокогорной зоне в Хижине Рацека — базовом лагере альпинистов в нац.парке Ала-Арча. 
+- [Публикация в местных СМИ](https://economist.kg/novosti/2023/04/14/alpinist-iz-rossii-za-svoj-schet-provel-internet-v-alplager-v-kyrgyzstane-potratil-100-tysyach-somov/)
 
 ---
 ### [Блог постов](https://github.com/xkochevnikx/homework_react) 
