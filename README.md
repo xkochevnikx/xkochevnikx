@@ -79,6 +79,10 @@
 ### [Блог стран](https://github.com/xkochevnikx/countries_api) 
 
 ---
+### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
+Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder
+
+---
 ### [TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
 
 ---
