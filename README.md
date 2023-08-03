@@ -61,7 +61,8 @@
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
-Большой проект с подробной документацией.
+Большой проект с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/)
+
 
 ---
 ### [Razek telecom](https://github.com/ala-archa/ratzek-services-frontend)
