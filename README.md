@@ -53,6 +53,10 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=xkochevnikx)
+
+---
+
 👨‍💻 Что умею  : 
 
 ### [Eslint plugin](https://github.com/xkochevnikx/eslint-plugin-interface-prefix-control-svt) 
