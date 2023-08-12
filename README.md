@@ -87,6 +87,9 @@
 ### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
 Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder
 
+### [Тестовое задание от компании R-BAND](https://github.com/xkochevnikx/formDataProject)
+Форма обратной связи с валидацией и отображением ошибок
+
 ---
 ### [TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
 
