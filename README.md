@@ -65,7 +65,7 @@
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
-Большой проект по мотивам курса [ULBI TV - Продвинутый фронтенд](https://ulbitv.ru/frontend) с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/)
+Большой проект по мотивам курса [ULBI TV - Продвинутый фронтенд](https://ulbitv.ru/frontend) с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/) .
 
 
 ---
@@ -75,6 +75,14 @@
 - [Публикация в местных СМИ](https://economist.kg/novosti/2023/04/14/alpinist-iz-rossii-za-svoj-schet-provel-internet-v-alplager-v-kyrgyzstane-potratil-100-tysyach-somov/)
 
 ---
+### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
+Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
+
+---
+### [Тестовое задание от компании R-BAND](https://github.com/xkochevnikx/formDataProject)
+Универсальная форма обратной связи с валидацией введенных данных. 
+
+---
 ### [Блог постов](https://github.com/xkochevnikx/homework_react) 
 
 ---
@@ -82,14 +90,6 @@
 
 ---
 ### [Блог стран](https://github.com/xkochevnikx/countries_api) 
-
----
-### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
-Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder
-
----
-### [Тестовое задание от компании R-BAND](https://github.com/xkochevnikx/formDataProject)
-Форма обратной связи с валидацией и отображением ошибок
 
 ---
 ### [TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
