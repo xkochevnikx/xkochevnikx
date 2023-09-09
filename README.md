@@ -65,7 +65,7 @@
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
-Большой проект по мотивам курса [ULBI TV - Продвинутый фронтенд](https://ulbitv.ru/frontend) с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/) .
+Большой проект с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/) .
 
 
 ---
