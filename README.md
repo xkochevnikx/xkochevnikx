@@ -68,7 +68,7 @@
 
 ---
 ### [Блог статей](https://github.com/xkochevnikx/production_project)
-Большой проект с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/) .
+САМЫЙ большой мой проект с подробной документацией. Проект написан в соответствии с методологией [Feature sliced design](https://feature-sliced.design/ru/) .
 
 
 ---
