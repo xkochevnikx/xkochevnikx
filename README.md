@@ -69,37 +69,10 @@
 Проект является фронтендом к captive-порталу, предоставляющим бесплатный доступ к интернету в высокогорной зоне в Хижине Рацека — базовом лагере альпинистов в нац.парке Ала-Арча. 
 - [Публикация в местных СМИ](https://economist.kg/novosti/2023/04/14/alpinist-iz-rossii-za-svoj-schet-provel-internet-v-alplager-v-kyrgyzstane-potratil-100-tysyach-somov/)
 
----
-### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
-Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
 
----
-### [Тестовое задание от компании R-BAND](https://github.com/xkochevnikx/formDataProject)
-Универсальная форма обратной связи с валидацией введенных данных. 
 
----
-### [Блог постов](https://github.com/xkochevnikx/homework_react) 
 
----
-### [Хлебопекарня интернет магазин](https://github.com/xkochevnikx/bakery_react) 
 
----
-### [Блог стран](https://github.com/xkochevnikx/countries_api) 
-
----
-### [TODO (на rtc)](https://github.com/xkochevnikx/severstalTodoTest)
-
----
-### [Виджет прогноза погоды](https://github.com/xkochevnikx/weatherForecast) 
-
----
-### [Доска активностей](https://github.com/xkochevnikx/active_states)
-
----
-### [Бургер меню + модальное окно](https://github.com/xkochevnikx/component_burger_menu-modal_window) 
-
----
-### [Карусель](https://github.com/xkochevnikx/component_carousel/tree/master)
 
 ---
 ### [Генератор цветов](https://github.com/xkochevnikx/palette_generator)
