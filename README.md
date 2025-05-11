@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/xkochevnikx/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://t.me/xkochevnikx">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -25,13 +26,6 @@
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
----
-🛠 Инструменты :
-
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
 ⚙️ Аналитика : 
@@ -68,16 +62,6 @@
 Сервис по предоставлению доступа к интернету на стоянке Рацека. <br/>
 Проект является фронтендом к captive-порталу, предоставляющим бесплатный доступ к интернету в высокогорной зоне в Хижине Рацека — базовом лагере альпинистов в нац.парке Ала-Арча. 
 - [Публикация в местных СМИ](https://economist.kg/novosti/2023/04/14/alpinist-iz-rossii-za-svoj-schet-provel-internet-v-alplager-v-kyrgyzstane-potratil-100-tysyach-somov/)
-
-
-
-
-
-
----
-### [Генератор цветов](https://github.com/xkochevnikx/palette_generator)
-
----
 
 
 
